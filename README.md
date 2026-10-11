@@ -69,3 +69,8 @@ My program doesn't include network security courses, so I'm learning it **on my 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maulxikhlas&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maulxikhlas/maulxikhlas/output/github-contribution-grid-snake-dark.svg" />
+</p>
