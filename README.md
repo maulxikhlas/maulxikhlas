@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maulxikhlas/maulxikhlas/main/assets/banner.svg" width="800" />
+</p>
+
 <h1 align="center">Muhammad Maulana Ikhlas</h1>
 
 <p align="center">
