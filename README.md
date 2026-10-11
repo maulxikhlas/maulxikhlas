@@ -20,6 +20,38 @@ My program doesn't include network security courses, so I'm learning it **on my 
 
 ## 🎯 Currently Learning
 
+
+## 🛠️ Tech Stack
+
+> Familiar with these, not an expert yet, and still learning every day.
+
+**Programming & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,html,css" />
+</p>
+
+**Database & Local Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white" />
+</p>
+
+**Operating Systems & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=black" />
+</p>
+
+**Security Learning Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/OverTheWire-Bandit-39FF14?style=for-the-badge&logoColor=black" />
+</p>
+
 - Linux command line & privilege basics
 - Networking fundamentals
 - Web application security (OWASP Top 10)
