@@ -67,5 +67,5 @@ My program doesn't include network security courses, so I'm learning it **on my 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maulxikhlas&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=maulxikhlas&theme=tokyonight&hide_border=true" />
 </p>
