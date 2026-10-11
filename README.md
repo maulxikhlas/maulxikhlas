@@ -74,3 +74,18 @@ My program doesn't include network security courses, so I'm learning it **on my 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maulxikhlas/maulxikhlas/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/m-maulana-ikhlas-9818953a2/"><img src="https://img.shields.io/badge/LinkedIn-M_Maulana_Ikhlas-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/maulxikhlas/"><img src="https://img.shields.io/badge/Instagram-@maulxikhlas-E4405F?style=for-the-badge" /></a>
+</p>
+
+**Hacking Platforms**
+
+<p>
+  <a href="https://tryhackme.com/p/Maulz"><img src="https://img.shields.io/badge/TryHackMe-Maulz-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://profile.hackthebox.com/profile/01a12b39-87a8-71d0-9dae-351a5681d679"><img src="https://img.shields.io/badge/Hack_The_Box-Maulz-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+</p>
