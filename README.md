@@ -57,3 +57,15 @@ My program doesn't include network security courses, so I'm learning it **on my 
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OverTheWire-Bandit-39FF14?style=for-the-badge" />
 </p>
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maulxikhlas&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulxikhlas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maulxikhlas&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" />
+</p>
